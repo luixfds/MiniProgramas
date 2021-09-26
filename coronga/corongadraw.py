@@ -1,3 +1,5 @@
+#   desenhando corona virus
+
 from turtle import *
 
 color('green')

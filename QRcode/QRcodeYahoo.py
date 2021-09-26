@@ -1,3 +1,4 @@
+#   Gerando IMG do QRCode do link
 import qrcode
 from qrcode.image.pil import PilImage
 
